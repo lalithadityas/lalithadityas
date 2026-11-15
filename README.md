@@ -15,14 +15,14 @@ I'm a Computer Science undergraduate focused on backend engineering, full-stack 
 </p>
 <!-- Divider + Profile Views -->
 <img align="right"
-src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blueviolet&style=flat-square">
+src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color=blueviolet&style=flat-square">
 
 <hr>
 <!--About Me--> 
 
 <h2 align="center">🚀 ABOUT ME</h2>
 
-- 🔭 Currently building **[BookMyCare](https://github.com/lalithdev/BookMyCare-Patient-Appointment-Booking-System)** - a scalable patient appointment booking platform
+- 🔭 Currently building **[BookMyCare](https://github.com/lalithadityas/BookMyCare-Patient-Appointment-Booking-System)** - a scalable patient appointment booking platform
 - 🌱 Learning **System Design, AWS, Scalable Backend Engineering, and AI Integrations**
 - 💡 Interested in **Backend Systems, Full Stack Development, AI Products, and Cloud Architecture**
 - ⚙️ Strong focus on **Spring Boot, PostgreSQL, REST APIs, JWT Authentication, and React**
@@ -126,24 +126,24 @@ src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blu
 <tr>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=lalithdev&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lalithadityas&theme=radical&hide_border=true"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lalithdev&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lalithadityas&show_icons=true&theme=radical&hide_border=true"/>
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalithdev&theme=github-compact)"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalithadityas&theme=github-compact)"/>
 </td>
 
 </td>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lalithdev&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lalithadityas&layout=compact&theme=radical&hide_border=true"/>
 </td>
 </tr>
 </table>
@@ -156,24 +156,24 @@ src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blu
 
 <p align="center">
 
-<a href="https://github.com/lalithdev/BookMyCare-Patient-Appointment-Booking-System">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithdev&repo=BookMyCare-Patient-Appointment-Booking-System&theme=github_dark&hide_border=true&show_owner=false"/>
+<a href="https://github.com/lalithadityas/BookMyCare-Patient-Appointment-Booking-System">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=BookMyCare-Patient-Appointment-Booking-System&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
-<a href="https://github.com/lalithdev/CertifyMe-Certification-Tracking-Platform">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithdev&repo=CertifyMe-Certification-Tracking-Platform&theme=github_dark&hide_border=true&show_owner=false"/>
+<a href="https://github.com/lalithadityas/CertifyMe-Certification-Tracking-Platform">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=CertifyMe-Certification-Tracking-Platform&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/lalithdev/CertifyMe-Certification-Tracking-Platform-Backend">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithdev&repo=CertifyMe-Certification-Tracking-Platform-Backend&theme=github_dark&hide_border=true&show_owner=false"/>
+<a href="https://github.com/lalithadityas/CertifyMe-Certification-Tracking-Platform-Backend">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=CertifyMe-Certification-Tracking-Platform-Backend&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
-<a href="https://github.com/lalithdev/Lalith-Aditya-Singuparapu-s-Portfolio">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithdev&repo=Lalith-Aditya-Singuparapu-s-Portfolio&theme=github_dark&hide_border=true&show_owner=false"/>
+<a href="https://github.com/lalithadityas/Lalith-Aditya-Singuparapu-s-Portfolio">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=Lalith-Aditya-Singuparapu-s-Portfolio&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
 </p>
@@ -185,10 +185,10 @@ src="https://komarev.com/ghpvc/?username=lalithdev&label=PROFILE+VIEWS&color=blu
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <p align="center">
-<a href="https://github.com/lalithdev"><img src="https://skillicons.dev/icons?i=github" height="48"></a>&nbsp;&nbsp;
+<a href="https://github.com/lalithadityas"><img src="https://skillicons.dev/icons?i=github" height="48"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lalith-aditya-singuparapu/"><img src="https://skillicons.dev/icons?i=linkedin" height="48"></a>&nbsp;&nbsp;
 <a href="mailto:lalithadityasinguparapu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48"></a>&nbsp;&nbsp;
-<a href="https://lalithdevportfolio.vercel.app"><img src="https://img.icons8.com/fluency/48/globe-earth.png" height="48"></a>
+<a href="https://lalithadityasportfolio.vercel.app"><img src="https://img.icons8.com/fluency/48/globe-earth.png" height="48"></a>
 </p>
 
 <!--Footer-->
