@@ -138,14 +138,14 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 <!--Github Stats--> 
 <h2 align="center"> 📊 GITHUB STATS</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://streak-stats.demolab.com?user=lalithadityas&theme=radical&hide_border=true"/>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalithadityas&theme=radical"/>
 
@@ -153,11 +153,17 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalithadityas&theme=github-compact"/>
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="middle">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalithadityas&theme=radical"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="middle">
+<img src="https://ghchart.rshah.org/26a641/lalithadityas" alt="Lalith Aditya's Github Contribution Heatmap" width="100%"/>
 </td>
 </tr>
 </table>
