@@ -7,17 +7,18 @@
 <!-- Hero -->
 <h3 align="center">
 🚀 Building Scalable Software & AI-Powered Solutions and Turning Ideas Into Real-World Applications💡.
-
 </h3>
 
 <p>
 I'm a Computer Science undergraduate focused on backend engineering, full-stack development, and building reliable software systems. I work primarily with Java, Spring Boot, REST APIs, PostgreSQL, ReactJS, Python, and SQL, and I'm increasingly exploring cloud computing and AI-powered applications. I enjoy transforming ideas into practical products while continuously improving my problem-solving, system design, and software engineering skills.
 </p>
+
 <!-- Divider + Profile Views -->
 <img align="right"
 src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color=blueviolet&style=flat-square">
 
 <hr>
+
 <!--About Me--> 
 
 <h2 align="center">🚀 ABOUT ME</h2>
@@ -32,7 +33,6 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 
 ---
 
-<!--Tech Stack-->
 <!--Tech Stack-->
 
 <h2 align="center">🛠️ TECH STACK</h2>
@@ -49,6 +49,7 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 <td>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
@@ -64,6 +65,8 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white">
 
 </td>
 </tr>
@@ -86,6 +89,19 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
+</td>
+</tr>
+
+<tr>
+<td><b>Testing & QA</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Unit_Testing-4CAF50?style=flat-square&logo=checkmarx&logoColor=white">
+<img src="https://img.shields.io/badge/Integration_Testing-009688?style=flat-square&logo=testinglibrary&logoColor=white">
+<img src="https://img.shields.io/badge/API_Validation-FF6C37?style=flat-square&logo=postman&logoColor=white">
 
 </td>
 </tr>
@@ -131,19 +147,17 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lalithadityas&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalithadityas&theme=radical"/>
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalithadityas&theme=github-compact)"/>
-</td>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalithadityas&theme=github-compact"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lalithadityas&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalithadityas&theme=radical"/>
 </td>
 </tr>
 </table>
@@ -157,11 +171,11 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 <p align="center">
 
 <a href="https://github.com/lalithadityas/BookMyCare-Patient-Appointment-Booking-System">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=BookMyCare-Patient-Appointment-Booking-System&theme=github_dark&hide_border=true&show_owner=false"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lalithadityas&repo=BookMyCare-Patient-Appointment-Booking-System&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
 <a href="https://github.com/lalithadityas/CertifyMe-Certification-Tracking-Platform">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=CertifyMe-Certification-Tracking-Platform&theme=github_dark&hide_border=true&show_owner=false"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lalithadityas&repo=CertifyMe-Certification-Tracking-Platform&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
 </p>
@@ -169,11 +183,11 @@ src="https://komarev.com/ghpvc/?username=lalithadityas&label=PROFILE+VIEWS&color
 <p align="center">
 
 <a href="https://github.com/lalithadityas/CertifyMe-Certification-Tracking-Platform-Backend">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=CertifyMe-Certification-Tracking-Platform-Backend&theme=github_dark&hide_border=true&show_owner=false"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lalithadityas&repo=CertifyMe-Certification-Tracking-Platform-Backend&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
 <a href="https://github.com/lalithadityas/Lalith-Aditya-Singuparapu-s-Portfolio">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lalithadityas&repo=Lalith-Aditya-Singuparapu-s-Portfolio&theme=github_dark&hide_border=true&show_owner=false"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=lalithadityas&repo=Lalith-Aditya-Singuparapu-s-Portfolio&theme=github_dark&hide_border=true&show_owner=false"/>
 </a>
 
 </p>
